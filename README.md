@@ -8,7 +8,7 @@ Artificial intelligence and data science student
 - 👯 I’m looking to collaborate on AI&DS
 - 🤔 I’m looking forward Placements.
 - 💬 Ask me about Tech
-- 📫 How to reach me :
+- 📫 How to reach me : 
   <br />[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/vinoth-kumar-6046262a5/)
 - 😄 Pronouns: Techie
 - ⚡ Fun fact: coder attracts codies.
